@@ -51,8 +51,8 @@ Keep the Media Lab neat and tidy. Remember that this is a shared workspace, and 
 
 ## Grading
 
-+ Participation/Attendance: 30%
-+ Quizzes: 30%
++ Attendance: 30%
++ Group discussion: 30%
 + Projects: 40%
 
 + 90 - 92 -> A-,	93 - 100 -> A
@@ -167,6 +167,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 + work
 	+ [HARVEST by Julian Oliver](https://julianoliver.com/output/harvest)
+	+ Sarah Friend
 	+ Bail Bloc
 
 ### w10 (11/14)
@@ -182,16 +183,16 @@ Introduce Final Project
 
 ### w12 (11/28)
 
-+ beyond bitcoin
++ discuss
 	+ [Beyond the Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
+	+ TBD, self-sovereignty and/or political implications of blockchain
 
 + democracy
 	+ democracy.earth
 	+ self-sovereignty
 
 + work
-	+ There's now a religion based on the blockchain. Yes, really.
-		+ https://futurism.com/blockchain-religion-matt-liston/
+	+ [Blockchain Religion](https://futurism.com/blockchain-religion-matt-liston/)
 
 ### w13 (12/5)
 
