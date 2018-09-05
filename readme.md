@@ -64,7 +64,7 @@ Keep the Media Lab neat and tidy. Remember that this is a shared workspace, and 
 
 1. Create a currency, trade it to someone (outside of class; non-Oberlin student might be most interesting) for a something material. This can include a good or service, but try to purchase something other than a "silly dance", "smile" or something to that effect. Document your process and bring the purchased object or documentation to class.
 
-	+ In creating your currency, ask yourself: "What do I want this to be worth? Is this exchangable? Would people consider it to be a legitimate exchange?"
+	+ In creating your currency, ask yourself: "What do I want this to be worth? Is this exchangeable? Would people consider it to be a legitimate exchange?"
 
 	+ Feel free to use existing currencies as a starting point, or to completely re-imagine the mode and materiality of currency. It's possible that the manner in which you facilitate the exchange will be as important or interesting as the currency you develop.
 
@@ -85,24 +85,28 @@ This syllabus is subject to change. Students who miss class are responsible for 
 + Course Introduction
 
 + Discuss
-	+ If You Don’t Have Bread, Eat Art!: Contemporary Art and Derivative Fascisms by Hito Steyerl
+	+ If You Don’t Have Bread, Eat Art!: Contemporary Art and Derivative Fascisms (from Artists Re:Thinking the Blockchain) by Hito Steyerl
 	+ The idea of the Operational Image
+		+ Bonus article, [Trevor Paglin - Operational Images](https://www.e-flux.com/journal/59/61130/operational-images/)
+
++ work
+	+ [On the Maintenance of Maria Eichhorn Aktiengesellschaft](https://brooklynrail.org/2016/03/criticspage/on-the-maintenance-of-maria-eichhorn-aktiengesellschaft)
+	+ [Cameron Rowland 91020000](https://brooklynrail.org/2016/03/artseen/cameron-rowland-91020000)
 
 + Introduce Project 1
 
 ### w2 (9/12)
 
 + Discuss
-	+ Graeber, Debt: 5000 Years - The Myth of Barter
+	+ Graeber, Debt: 5000 Years - The Myth of Barter (find in Blackboard)
+	+ [Is Bitcoin a Real Currency?](https://www.nber.org/papers/w19747.pdf)
+	+ [Bitcoin Whitepaper *just skim it if you'd like*](https://bitcoin.org/bitcoin.pdf)
 
 + work
-	+ RAFiA PayBlackTime
-		+ https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/
-	+ Pivli Takala (kids spend artist's award)
-		+ http://pilvitakala.com/the-committee
+	+ [RAFiA PayBlackTime](https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/)
+	+ [Pivli Takala](http://pilvitakala.com/the-committee)
 	+ [Laurel Ptak - Wages for Facebook](http://wagesforfacebook.com/)
-	+ Andrea Fraser "Untitled" *OPTIONAL*
-		+ https://www.nytimes.com/2004/06/13/magazine/the-way-we-live-now-6-13-04-encounter-sex-art-and-videotape.html
+	+ [Andrea Fraser "Untitled"](https://www.nytimes.com/2004/06/13/magazine/the-way-we-live-now-6-13-04-encounter-sex-art-and-videotape.html)
 
 ### w3 (9/19)
 
@@ -110,37 +114,33 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 ### w4 (9/26)
 
-+ Turn in/discuss Project 1
++ Exhibit Project 1
 
 ### w5 (10/3)
 
-+ alternative econcurrencies/economies
-	+ Communist Manifesto
++ bitcoin
+	+ [The Great Chain of Being Sure About Things](https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things)
+	+ bitcoin criticisms
+			+ [Something from Nothing: A Tale of Cryptocurrency](https://www.ssense.com/en-us/editorial/culture/something-from-nothing-a-tale-of-cryptocurrency)
+			+ [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
+			+ [Bogost - Cryptocurrency Might be a Path to Authoritarianism](https://www.theatlantic.com/technology/archive/2017/05/blockchain-of-command/528543/)
 
-+ encryption
-	+ Cypherpunk Manifesto (on encryption & privacy)
-		+ https://www.activism.net/cypherpunk/manifesto.html
-
-+ work
-	+ On the Maintenance of Maria Eichhorn Aktiengesellschaft
-		+ Artist spends Documenta money to create a company that owns its own shares, or is owned by no one
-		+ https://brooklynrail.org/2016/03/criticspage/on-the-maintenance-of-maria-eichhorn-aktiengesellschaft
-	+ Cameron Rowland 91020000
-		+ https://brooklynrail.org/2016/03/artseen/cameron-rowland-91020000
+	+ work
+		+ [Bitchcoin (WIRED) Sarah Meyohas](https://www.wired.com/2015/02/bitchcoin/)
 
 ### w6 (10/10)
 
-+ bitcoin
-	+ Is Bitcoin a Real Currency?
-		+ https://www.nber.org/papers/w19747.pdf
-	+ The Great Chain of Being Sure About Things
-		+ https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things
-	+ Bitcoin Whitepaper
-		+ https://bitcoin.org/bitcoin.pdf
++ smart contracts
+	+ [Buterin Interview](https://www.canopycanopycanopy.com/contents/decentralized-autonomous-society?sub=decentralized-autonomous-society-transcript)
+	+ [The DAO, The Hack, The Soft Fork and The Hard Fork](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/)
+	+ Immutability Mantra (from Artists Re:Thinking the Blockchain) on Blackboard
+	+ [Everything you need to know about ICOs *optional*](https://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf)
+
++ Introduce Project 2
 
 + work
-	+ Bitchcoin (WIRED) Sarah Meyohas
-		+ https://www.wired.com/2015/02/bitchcoin/
+	+ Cryptokitties
+	+ Cryptopunks
 
 ### w7 (10/17)
 
@@ -148,44 +148,32 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 ### w8 (10/31)
 
-+ (bitcoin continued)
-
-+ criticisms
-	+ SOMETHING FROM NOTHING: A TALE OF CRYPTOCURRENCY
-	+ The Rise & Fall of Silk Road
-		+ https://www.wired.com/2015/04/silk-road-1/
-	+ Bogost - Cryptocurrency Might be a Path to Authoritarianism
-		+ https://www.theatlantic.com/technology/archive/2017/05/blockchain-of-command/528543/
-
-+ work
++ discuss & look at work
+	+ plantoid
+		+ read De Filippi_Plantoid (from Artists Re:Thinking the Blockchain) on Blackboard
+	+ terra0
+		+ read Seidler_terra0 (from Artists Re:Thinking the Blockchain) on Blackboard
+	+ [Random Darknet Shopper - Mediengruppe Bitnik](http://rhizome.org/community/45631/)
 
 ### w9 (11/7)
 
-+ smart contracts
-	+ Buterin Interview
-		+ https://www.canopycanopycanopy.com/contents/decentralized-autonomous-society?sub=decentralized-autonomous-society-transcript
-	+ The DAO, The Hack, The Soft Fork and The Hard Fork
-		+ https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/
-	+ Everything you need to know about ICOs *OPTIONAL*
-		+ https://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf
++ mining
+	+ read Nadal_Critical Mining (from Artists Re:Thinking the Blockchain) on Blackboard
+	+ [ViaBTC Rises: How A Mysterious Miner Could Decide Bitcoin's Future](https://www.coindesk.com/viabtc-mystery-miner-bitcoin-scaling-future/)
+	+ [Mining Bitcoin with pencil and paper: 0.67 hashes per day *OPTIONAL*](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
+
++ wallets etc
+	+ [A Bot Named Willy: Did Mt. Gox's Automated Trading Pump Bitcoin's Price? *OPTIONAL*](https://www.coindesk.com/bot-named-willy-did-mt-goxs-automated-trading-pump-bitcoin-price/)
 
 + work
-	+ Cryptokitties
-	+ Cryptopunks
+	+ [HARVEST by Julian Oliver](https://julianoliver.com/output/harvest)
+	+ Bail Bloc
 
 ### w10 (11/14)
 
-+ work
-	+ terra0
-		+ MoneyLab terra0
-			+ https://www.are.na/block/2488041
-	+ plantoid
-		+ Artists Re:Thinking the Blockchain (Plantoid chapter)
+Exhibit Project 2
 
-	+ Random Darknet Shopper - Mediengruppe Bitnik
-		+ http://rhizome.org/community/45631/
-
-+ Introduce Final Project
+Introduce Final Project
 
 ### w11 (11/21) (pre-thanksgiving... optional)
 
@@ -193,22 +181,6 @@ This syllabus is subject to change. Students who miss class are responsible for 
 	+ Skins, Chips, and Stone of Jordan
 
 ### w12 (11/28)
-
-+ mining
-	+ [ViaBTC Rises: How A Mysterious Miner Could Decide Bitcoin's Future](https://www.coindesk.com/viabtc-mystery-miner-bitcoin-scaling-future/)
-
-	+ Mining Bitcoin with pencil and paper: 0.67 hashes per day *OPTIONAL*
-		+ http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html
-
-+ wallets etc
-	+ A Bot Named Willy: Did Mt. Gox's Automated Trading Pump Bitcoin's Price? *OPTIONAL*
-		+ https://www.coindesk.com/bot-named-willy-did-mt-goxs-automated-trading-pump-bitcoin-price/
-
-+ work
-	+ Julian Oliver
-		+ [HARVEST](https://julianoliver.com/output/harvest)
-
-### w13 (12/5)
 
 + beyond bitcoin
 	+ [Beyond the Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
@@ -221,6 +193,10 @@ This syllabus is subject to change. Students who miss class are responsible for 
 	+ There's now a religion based on the blockchain. Yes, really.
 		+ https://futurism.com/blockchain-religion-matt-liston/
 
+### w13 (12/5)
+
++ Final Project workshop
+
 ### w14 (12/12)
 
-+ show final projects
++ Show Final Projects
