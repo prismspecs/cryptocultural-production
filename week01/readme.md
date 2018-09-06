@@ -6,8 +6,8 @@
 		+ Bonus article, [Trevor Paglin - Operational Images](https://www.e-flux.com/journal/59/61130/operational-images/)
 
 + Artists & Projects discussion
-		+ [On the Maintenance of Maria Eichhorn Aktiengesellschaft](https://brooklynrail.org/2016/03/criticspage/on-the-maintenance-of-maria-eichhorn-aktiengesellschaft)
-		+ [Cameron Rowland 91020000](https://brooklynrail.org/2016/03/artseen/cameron-rowland-91020000)
+	+ [On the Maintenance of Maria Eichhorn Aktiengesellschaft](https://brooklynrail.org/2016/03/criticspage/on-the-maintenance-of-maria-eichhorn-aktiengesellschaft)
+	+ [Cameron Rowland 91020000](https://brooklynrail.org/2016/03/artseen/cameron-rowland-91020000)
 
 ## Project 1: Alternative Currency
 
