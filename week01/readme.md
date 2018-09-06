@@ -13,6 +13,6 @@
 
 Create a currency, trade it to someone (outside of class; non-Oberlin student might be most interesting) for a something material. This can include a good or service, but try to purchase something other than a "silly dance", "smile" or something to that effect. Document your process and bring the purchased object or documentation to class.
 
-	+ In creating your currency, ask yourself: "What do I want this to be worth? Is this exchangeable? Would people consider it to be a legitimate exchange?"
++ In creating your currency, ask yourself: "What do I want this to be worth? Is this exchangeable? Would people consider it to be a legitimate exchange?"
 
-	+ Feel free to use existing currencies as a starting point, or to completely re-imagine the mode and materiality of currency. It's possible that the manner in which you facilitate the exchange will be as important or interesting as the currency you develop.
++ Feel free to use existing currencies as a starting point, or to completely re-imagine the mode and materiality of currency. It's possible that the manner in which you facilitate the exchange will be as important or interesting as the currency you develop.
