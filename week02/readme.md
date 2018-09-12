@@ -3,7 +3,7 @@
 	+ [Is Bitcoin a Real Currency?](https://www.nber.org/papers/w19747.pdf)
 	+ [Bitcoin Whitepaper *just skim it if you'd like*](https://bitcoin.org/bitcoin.pdf)
 
-+ Bitcoin
++ [Bitcoin](https://www.youtube.com/watch?v=4APcgsRdW6w)
 	+ [Explainer vid](https://www.youtube.com/watch?v=l9jOJk30eQs)
 	+ [Another from The Guardian](https://www.theguardian.com/news/video/2014/apr/30/bitcoin-made-simple-video-animation)
 
