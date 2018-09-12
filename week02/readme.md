@@ -1,5 +1,3 @@
-+ Course intro, etc.
-
 + Discuss
 	+ Graeber, Debt: 5000 Years - The Myth of Barter (find in Blackboard)
 	+ [Is Bitcoin a Real Currency?](https://www.nber.org/papers/w19747.pdf)
