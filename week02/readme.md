@@ -6,6 +6,7 @@
 + [Bitcoin](https://www.youtube.com/watch?v=4APcgsRdW6w)
 	+ [Explainer vid](https://www.youtube.com/watch?v=l9jOJk30eQs)
 	+ [Another from The Guardian](https://www.theguardian.com/news/video/2014/apr/30/bitcoin-made-simple-video-animation)
+	+ [And one more for good measure](https://vimeo.com/63502573)
 
 + Artist & Project Discussion
 	+ [RAFiA PayBlackTime](https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/)
