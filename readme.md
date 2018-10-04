@@ -141,21 +141,13 @@ This syllabus is subject to change. Students who miss class are responsible for 
 + work
 	+ Cryptokitties
 	+ Cryptopunks
+	+ [Random Darknet Shopper - Mediengruppe Bitnik](http://rhizome.org/community/45631/)
 
 ### w7 (10/17)
 
 + (I will be at Radical Networks in Berlin, will report back)
 
 ### w8 (10/31)
-
-+ discuss & look at work
-	+ plantoid
-		+ read De Filippi_Plantoid (from Artists Re:Thinking the Blockchain) on Blackboard
-	+ terra0
-		+ read Seidler_terra0 (from Artists Re:Thinking the Blockchain) on Blackboard
-	+ [Random Darknet Shopper - Mediengruppe Bitnik](http://rhizome.org/community/45631/)
-
-### w9 (11/7)
 
 + mining
 	+ read Nadal_Critical Mining (from Artists Re:Thinking the Blockchain) on Blackboard
@@ -170,11 +162,19 @@ This syllabus is subject to change. Students who miss class are responsible for 
 	+ Sarah Friend
 	+ Bail Bloc
 
-### w10 (11/14)
+### w9 (11/7)
 
 Exhibit Project 2
 
 Introduce Final Project
+
+### w10 (11/14)
+
++ discuss & look at work
+	+ plantoid
+		+ read De Filippi_Plantoid (from Artists Re:Thinking the Blockchain) on Blackboard
+	+ terra0
+		+ read Seidler_terra0 (from Artists Re:Thinking the Blockchain) on Blackboard
 
 ### w11 (11/21) (pre-thanksgiving... optional)
 
