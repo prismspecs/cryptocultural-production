@@ -11,4 +11,3 @@ work
 + [Click Miner by Sarah Friend](http://www.statemachines.eu/projects/clickmine-by-s-friend/)
   + [play online](https://clickmine.click/)
 + [Bail Bloc](https://bailbloc.thenewinquiry.com/)
-  + [presentation](https://youtu.be/diJUzutcX-A?t=2680)
