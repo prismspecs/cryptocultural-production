@@ -179,7 +179,7 @@ Introduce Final Project
 ### w11 (11/21) (pre-thanksgiving... optional)
 
 + videogame economics
-	+ Skins, Chips, and Stone of Jordan
+	+ [Skins, Chips, and Stone of Jordan](http://rhizome.org/editorial/2016/dec/14/searching-for-the-value-of-video-game-economies/)
 
 ### w12 (11/28)
 
