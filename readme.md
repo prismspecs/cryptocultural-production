@@ -104,7 +104,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 + work
 	+ [RAFiA PayBlackTime](https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/)
-	+ [Pivli Takala](http://pilvitakala.com/the-committee)
+	+ [Pilvi Takala](http://pilvitakala.com/the-committee)
 	+ [Laurel Ptak - Wages for Facebook](http://wagesforfacebook.com/)
 	+ [Andrea Fraser "Untitled"](https://www.nytimes.com/2004/06/13/magazine/the-way-we-live-now-6-13-04-encounter-sex-art-and-videotape.html)
 
